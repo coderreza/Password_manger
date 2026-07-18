@@ -1,2 +1,3 @@
 # Password_manger
-a simple password manager
+this is a password manager I made for training.
+WARNING: it's not safe and it doesn't encrypt the passwords
